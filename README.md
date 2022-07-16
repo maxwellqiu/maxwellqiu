@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on QA Developer
+- 🌱 I’m currently learning CS in Concordia University
+- 👯 I’m looking to collaborate on Coding
+- 🤔 I’m looking for help with Frontend Developerposition
+- 📫 How to reach me: qiu.maxwell@gmail.com
+- 😄 Pronouns: He/Him/His
 <!--
 **maxwellqiu/maxwellqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
