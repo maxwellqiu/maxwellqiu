@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on QA Developer
-- 🌱 I’m currently learning CS in Concordia University
+- 🔭 I’m currently working on Data Scientist position
+- 🌱 I’m currently learning data science at Concordia University
 - 👯 I’m looking to collaborate on Coding
-- 🤔 I’m looking for help with Frontend Developerposition
+- 🤔 I’m looking for a Data Scientist project opportunity
 - 📫 How to reach me: qiu.maxwell@gmail.com
 - 😄 Pronouns: He/Him/His
 <!--
