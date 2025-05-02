@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Data Scientist position
+- 🔭 I’m currently working on QA Developer position
 - 🌱 I’m currently learning data science at Concordia University
 - 👯 I’m looking to collaborate on Coding
 - 🤔 I’m looking for a Data Scientist project opportunity
